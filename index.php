@@ -1,16 +1,14 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>My PHP App</title>
-  </head>
-  <body>
-<h1>Welcome to OpenShift!</h1>
-    <p>Hello!</p>
-
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+</head>
+<body>
+  <h1>Welcome to OpenShift</h1>
   <?php
-echo "<h2>PHP Application Deployed Successfully!</h2>
-echo "Hello from Red Hat OpenShift!";
-echo "<p>Date:". date("d-m-Y")."</p>";
+echo "Hello World!";
 ?>
-  </body>
+</body>
 </html>
