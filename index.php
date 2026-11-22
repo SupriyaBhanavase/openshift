@@ -5,6 +5,7 @@
   </head>
   <body>
 <h1>Welcome to OpenShift!</h1>
+    <p>Hello!</p>
 
   <?php
 echo "<h2>PHP Application Deployed Successfully!</h2>
